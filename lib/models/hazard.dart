@@ -5,6 +5,7 @@ enum HazardType {
   blade, 
 }
 
+
 class Hazard {
   String id;
   HazardType type;
